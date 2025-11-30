@@ -34,6 +34,10 @@ No arquivo builder.cpp, o cliente pode montar o lanche etapa por etapa.
     Resultado: O código fica fluente e legível.
 
 
+<img width="460" height="580" alt="image" src="https://github.com/user-attachments/assets/dcb09034-ba01-45fb-90a6-84b0063c4850" />
+
+
+
 
 ### 2. Facade (Padrão Estrutural)
 
@@ -58,6 +62,8 @@ No arquivo facade.cpp, criamos a classe HamburgueriaFacade.
     A classe Facade esconde toda a complexidade de verificar senha, checar estoque e salvar arquivos.
 
 
+<img width="560" height="380" alt="image" src="https://github.com/user-attachments/assets/f567fbec-4649-4cd1-af3a-6c06269ecebc" />
+
 
 
 ### 3. Chain of Responsibility (Padrão Comportamental)
@@ -81,6 +87,9 @@ No arquivo Chain.cpp, o pedido (PedidoRequest) viaja por uma esteira:
     CozinhaHandler: Se aprovado pelo estoque, monta o objeto.
 
     LogHandler: Se montado com sucesso, salva no arquivo.
+
+
+<img width="380" height="410" alt="image" src="https://github.com/user-attachments/assets/16634f3b-126e-45b0-a8e6-c7549fbfe676" />
 
 
 
@@ -115,7 +124,7 @@ Executando o Chain of Responsibility
 
 
 
-Funcionalidades Extras
+### Funcionalidades Extras
 
 Todos os exemplos possuem:
 
